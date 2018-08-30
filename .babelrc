@@ -1,0 +1,12 @@
+{
+  "presets": [
+    "env",
+    "react",
+    "latest"
+  ],
+  "plugins": [
+    "transform-object-rest-spread",
+    "transform-runtime",
+    "transform-class-properties"
+  ]
+}
